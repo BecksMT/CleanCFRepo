@@ -1,0 +1,9 @@
+# Constructor Studio artifacts registry
+
+[[systems]]
+name = "Cleancfrepo"
+slug = "cleancfrepo"
+kit = "sdlc"
+artifacts = []
+codebase = []
+children = []
